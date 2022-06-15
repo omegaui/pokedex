@@ -12,3 +12,6 @@ Just another tiny pokedex application written in Flutter for practice.
 
 ![](/images/screenshot5.png)
 
+# opensourcerules
+Feel free to fork and practice further.
+
